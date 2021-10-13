@@ -6,3 +6,4 @@
 *.nam
 *.til
 !*.py
+*.idb
